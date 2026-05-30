@@ -14,6 +14,13 @@ footer {
     float: left; 
 }
 
+a{
+    color: #ff4043;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .lista > .sub-lista{
     opacity: 0;
     width: 50px;
